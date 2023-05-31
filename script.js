@@ -29,10 +29,3 @@ const emotional4 = "Emotional mastery is something important to learn.";
 const emotional = [emotional1, emotional2, emotional3, emotional4];
 let num3 = Math.floor(Math.random()*4);
 console.log(emotional[num3]);
-
-
-
-// console.log(num1)
-// console.log(num2)
-// console.log(num3)
-// console.log(num4)
